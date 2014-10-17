@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hol:home|Door43 (hol)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hol|d43-hol repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hol/archive/master.zip|d43-hol.zip]]
+
+**Recent Changes**
+{{changes>ns = hol}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hol|Ethnologue data]]
+
